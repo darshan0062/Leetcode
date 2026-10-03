@@ -11,6 +11,7 @@ class Solution {
         return ans;
     }
 }
+// use first one for better and clean if u remember formulae else use 2nd one
 
 // class Solution {
 //     public int[] shuffle(int[] nums, int n) {
