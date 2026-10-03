@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/darshan0062/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/darshan0062/Leetcode/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/darshan0062/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1470-shuffle-the-array](https://github.com/darshan0062/Leetcode/tree/master/1470-shuffle-the-array) |
 ## String
 |  |
 | ------- |
