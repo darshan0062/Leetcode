@@ -21,7 +21,7 @@ class Solution {
         }
     
     }
-    return new String(ss);
+    return  String.valueOf(ss);
 }
       boolean isVowel(char ss) {
         return ss == 'a' || ss == 'e' || ss == 'i' || ss == 'o' || ss == 'u'
