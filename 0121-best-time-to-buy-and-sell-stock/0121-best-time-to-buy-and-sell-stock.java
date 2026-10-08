@@ -13,7 +13,7 @@ int right =1;
 
             } else {
 
-                left = right;   
+                left=right;   
             }
 
             right++;
