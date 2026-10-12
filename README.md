@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/darshan0062/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/darshan0062/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/darshan0062/Leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshan0062/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/darshan0062/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/darshan0062/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/darshan0062/Leetcode/tree/master/0567-permutation-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/darshan0062/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/darshan0062/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -72,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/darshan0062/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0567-permutation-in-string](https://github.com/darshan0062/Leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshan0062/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/darshan0062/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
