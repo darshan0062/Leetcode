@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/darshan0062/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshan0062/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/darshan0062/Leetcode/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/darshan0062/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/darshan0062/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/darshan0062/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/darshan0062/Leetcode/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/darshan0062/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/darshan0062/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/darshan0062/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/darshan0062/Leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -83,4 +86,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/darshan0062/Leetcode/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
