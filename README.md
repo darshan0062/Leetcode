@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/darshan0062/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/darshan0062/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshan0062/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/darshan0062/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/darshan0062/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshan0062/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/darshan0062/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/darshan0062/Leetcode/tree/master/0075-sort-colors) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/darshan0062/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/darshan0062/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/darshan0062/Leetcode/tree/master/0242-valid-anagram) |
