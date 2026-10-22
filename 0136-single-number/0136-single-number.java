@@ -13,7 +13,7 @@ class Solution {
 
            }
         }
-    for(int k: nums){
+    for(int k: h.keySet()){
         if(h.get(k)==1){
             ans=k;
         }
