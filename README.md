@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/darshan0062/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshan0062/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/darshan0062/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/darshan0062/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan0062/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0922-sort-array-by-parity-ii](https://github.com/darshan0062/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/darshan0062/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/darshan0062/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/darshan0062/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/darshan0062/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/darshan0062/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshan0062/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/darshan0062/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/darshan0062/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/darshan0062/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/darshan0062/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/darshan0062/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan0062/Leetcode/tree/master/0560-subarray-sum-equals-k) |
