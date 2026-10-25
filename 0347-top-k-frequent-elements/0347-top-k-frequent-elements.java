@@ -10,7 +10,8 @@ class Solution {
             
          }
          int[]ans= new int[k];
-         for(int i=0;i<k;i++){
+         int i=0;
+        while(i<k){
            int max=Collections.max(h.values());
             for(int j:h.keySet()){
                 if(h.get(j)==max){
@@ -19,6 +20,7 @@ class Solution {
                     break;
                 }
             }
+            i++;
          }
           return ans;
     }
