@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/darshan0062/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/darshan0062/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/darshan0062/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/darshan0062/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/darshan0062/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/darshan0062/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/darshan0062/Leetcode/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/darshan0062/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/darshan0062/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/darshan0062/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
