@@ -4,10 +4,7 @@ class Solution {
         Stack<Integer> s= new Stack<>();
         HashMap<Integer,Integer> h= new HashMap<>();
         for(int i=0;i<nums2.length;i++){
-            if(s.isEmpty()){
-                s.push(nums2[i]);
-
-            }while(!s.isEmpty()&&s.peek()<nums2[i]){
+           while(!s.isEmpty()&&s.peek()<nums2[i]){
                 int ans=s.pop();
                 h.put(ans,nums2[i]);
             }
